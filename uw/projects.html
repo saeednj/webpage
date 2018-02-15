@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Saeed Nejati's Personal Webpage</title>
+        <link rel="stylesheet" href="style.css" type="text/css"> 
+    </head>
+    <body>
+        <div id="header">
+            <h1>Saeed Nejati</h1>
+        </div>
+
+        <div id="cols">
+            <div id="navlinks">
+                <h3><a href="index.html">Home</a></h3>
+                <h3><a href="pubs.html">Publications</a></h3>
+                <h3>Projects</h3>
+            </div>
+
+            <div id="content">
+                <br><br><br>
+                Here are some of the projects that I worked on:
+
+                <h2>MapleCrypt</h2>
+                <p>
+                MapleCrypt is a SAT-based tool I developed for preimage of
+                SHA-1. It uses a CEGAR-based approach to reduce the complexity
+                of the problem. Also we developed a multi-armed bandit restart
+                policy, which turned out to be effective for cryptographic
+                instances. Our paper on this tool was published in <strong>VSTTE 2017</strong>.
+                </p>
+
+                <h2>MapleAmpharos</h2>
+                <p>
+                MapleAmpharos is an extension to the AMPHAROS parallel SAT solver. I have used a splitting heuristic based on propagation rate of variables. Also improved the solver by diversifying worker restart policies.
+                It is not beating the state-of-the-art, but is very competitive.
+                Our paper on this solver was presented at <strong>SAT 2017</strong>.
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
