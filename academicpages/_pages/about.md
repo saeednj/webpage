@@ -15,9 +15,8 @@ with professors [Vijay Ganesh](https://ece.uwaterloo.ca/~vganesh) and
 I got both my Bachelor's and Master's degrees in Computer
 Engineering from Shahid Behesti University, Tehran, Iran.
 
-I was born and raised in Tehran, Iran but currently live in Waterloo, Canada.<br>
-My name, Saeed, is an Arabic word, but commonly used in Iran as a first name.
-In Arabic it means happy/merry, but in Iran it generally means blessed.
+I was born in Tehran, Iran, and now living in Waterloo, Canada.<br>
+My name, Saeed, means happy/merry, but in Iran it is commonly used to refer to being blessed.
 In native script it is written like: سعید and it is pronounced like [s@ i:d] in
 IPA ASCII phonetics. My last name is also read as [ne dZa:ti].
 
