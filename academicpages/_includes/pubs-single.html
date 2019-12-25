@@ -43,8 +43,8 @@
         <br>
         {{ post.authors | replace: "Saeed Nejati", "<u>Saeed Nejati</u>" }}
         <br>
-        <i>({{ post.short_venue }}-{{ post.date | default: "1900-01-01" | date: "%y" }}) {{ post.venue }}</i>,
-        pp. {{ post.pages }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        <i>({{ post.short_venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }})</i><!--{{ post.venue }}</i>,
+        pp. {{ post.pages }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}-->
         <br>
         {% if post.pdf %}<a href="{{ post.pdf | prepend: "/files/" | prepend: base_path }}">[pdf]</a>{% endif %}
         {% if post.bib %}<a href="{{ post.bib | prepend: "/files/" | prepend: base_path }}">[bib]</a>{% endif %}
