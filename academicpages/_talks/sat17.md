@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 venue: "SAT 2017"
 date: 2017-08-30
-location: "Lille, France"
+location: "Melbourne, Australia"
 slides: "SAT17mapleampharos-talk.pdf"
 ---
 
