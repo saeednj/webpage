@@ -1,7 +1,7 @@
 ---
 title: "Toward Verification of Unchecked Codes in Checked C"
 collection: talks
-type: "Internship Presentation"
+type: internship
 venue: "Microsoft Research"
 date: 2019-12-06
 location: "Redmond, USA"

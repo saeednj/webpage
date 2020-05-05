@@ -1,7 +1,7 @@
 ---
 title: "CDCL(Crypto) SAT Solvers for Cryptanalysis"
 collection: talks
-type: "Conference Presentation"
+type: conference 
 venue: "CASCON 2019"
 date: 2019-11-04
 location: "Toronto, Canada"
