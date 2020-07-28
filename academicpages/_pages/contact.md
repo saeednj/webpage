@@ -9,7 +9,7 @@ redirect_from:
 
 <pre>
 Saeed Nejati
-PhD Candidate
+Postdoctoral fellow
 Department of Electrical and Computer Engineering
 University of Waterloo
 200 University Avenue West
@@ -19,7 +19,6 @@ Canada
 
 <tt>
 Email: snejati@uwaterloo.ca<br>
-Phone: 519-888-4567, ext. 31459<br>
-Office: E5 5046<br>
+Office: Working from home!<br>
 </tt>
 

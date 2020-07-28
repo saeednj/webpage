@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, University of Waterloo, (present)
+* Ph.D in Computer Engineering, University of Waterloo, 2020
 * M.S. in Computer Engineering, Shahid Beheshti University, 2010
 * B.S. in Computer Engineering, Shahid Beheshti University, 2007
 
@@ -24,7 +24,7 @@ Work experience
 Research experience
 ======
 
-* 2013-Present:
+* 2013-2020:
     * **Research Assistant**, _University of Waterloo_, Waterloo, Canada
     * Supervisors: Vijay Ganesh, Catherine Gebotys
     * Overview: Working on improving splitting heuristics of parallel SATisfiability solvers using machine learning.
