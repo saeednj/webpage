@@ -73,8 +73,9 @@
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
-      {% if entry.year %}
-        {{entry.year}}
+      {% if entry.type == "talk" %}
+        {% if entry.venue %}<em>{{entry.venue}}</em> {% endif %}
+        {% if entry.date %}({{entry.date}}) {% endif %}
       {% endif %}
       </div>
     {% endif %}
