@@ -7,7 +7,7 @@ years: [2019,2018]
 nav: true
 ---
 
-Slides for conference presenatations can be found in each entry in [publications]({{site.baseurl}}/publications/) page.
+Slides for conference presentations can be found in each entry in [publications]({{site.baseurl}}/publications/) page.
 
 <div class="publications">
 
